@@ -1,5 +1,12 @@
 # React + Vite
 
+this is link to view my project : https://app-delta-lovat.vercel.app/
+
+enter the following details to get authroize
+name- sairam
+email - sairam@gmail.com
+mobile - 8919670242
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
